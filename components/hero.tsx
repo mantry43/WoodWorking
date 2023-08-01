@@ -24,7 +24,7 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h1 mb-4" data-aos="fade-up">Welcome Renqiu Yongmao WoodWorking Machinery Co.</h1>
+            <h1 className="h1 mb-4" data-aos="fade-up">Welcome Renqiu Yongmao Co.</h1>
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">
             An export business can be quite a challenge, especially if you are new to the industry. This is where Global Selling comes into the picture.</p>
           </div>
